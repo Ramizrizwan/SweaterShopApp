@@ -12,7 +12,7 @@ Here is the main screen of the app.
 * 🛒 Allows Customers to view and select sweaters, add to their shopping cart, and purchase their selections. 
 * :credit_card:	Payment is though Apple Pay.
 * :email:	Once the customers finishes payment, a confirmation page will be prompted. 
-* The owner will be sent an email regarding the transactions.
+* :woman:	The owner will be sent an email regarding the transactions.
 ## 📸 App ScreenShots
 Welcome to SweaterShopApp
 ![origin_image](https://user-images.githubusercontent.com/100312746/160305463-b6c0a130-2eb2-45f8-ad49-ec815ef65e09.png)
